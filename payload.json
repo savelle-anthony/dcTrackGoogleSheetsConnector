@@ -1,0 +1,66 @@
+{
+  "columns": [
+      {
+        "name": "tiName",
+        "filter": {
+          "eq": ""
+        }
+      },
+      {
+        "name": "tiClass",
+        "filter": {
+          "in": [
+            "Network",
+            "Device"
+          ]
+        }
+      }
+    ],
+    "selectedColumns": [
+      {
+        "name": "tiName"
+      },
+      {
+        "name": "cmbMake"
+      },
+      {
+        "name": "cmbModel"
+      },
+      {
+        "name": "cmbFunction"
+      },
+      {
+        "name": "dtSysCreationDate"
+      },
+      {
+        "name": "tiClass"
+      },
+      {
+        "name": "tiSubclass"
+      },
+      {
+        "name": "cmbLocation"
+      },
+      {
+        "name": "cmbCabinet"
+      },
+      {
+        "name": "cmbUPosition"
+      },
+      {
+        "name": "tiRUs"
+      },
+      {
+        "name": "tiSerialNumber"
+      },
+      {
+        "name": "tiAssetTag"
+      },
+      {
+        "name": "cmbCustomer"
+      },
+      {
+        "name": "cmbStatus"
+      }
+    ]
+  }
