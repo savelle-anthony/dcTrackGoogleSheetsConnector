@@ -11,11 +11,11 @@ This script will make a request to a dcTrack server and pull all devices in the 
 The data is then parsed into a dict and formated to be updated to a google sheet.
 
 To get this script working you will need:
-- dcTrack server ip or hostname - 18
-- authentication to dcTrack server - 26
-- google cloud platform service account credential.json (creds.json) file with the google sheets api enabled - 46
-- google sheet spreadsheet ID shared with service account - 48
-- change sheet name - 59
+- dcTrack server ip or hostname - 22
+- authentication to dcTrack server - 30
+- google cloud platform service account credential.json (creds.json) file with the google sheets api enabled - 50
+- google sheet spreadsheet ID shared with service account - 51
+- change sheet name - 60
 """
 
 # API request
